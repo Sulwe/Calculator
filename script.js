@@ -11,3 +11,11 @@ function multiply(x, y){
 function divide(x,y){
     return x / y;
 };
+
+let operand1;
+let operand2;
+let operator;
+
+function operate(operand1, operand2, operator){
+
+};
