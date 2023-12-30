@@ -11,3 +11,11 @@ table {
 #display {
     font-size: 35px;
 }
+
+.number {
+    font-size: 30px;
+}
+
+.operator {
+    font-size: 30px;
+}
