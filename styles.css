@@ -1,3 +1,13 @@
 .title {
     text-align: center;
+
+}
+table {
+    border: 2px;
+    align-self: center;
+    background-color: #cfcdcd;
+}
+
+#display {
+    font-size: 35px;
 }
