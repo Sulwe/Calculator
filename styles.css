@@ -12,6 +12,10 @@ body {
     top: 80px;
     left: 40%;
 }
+body {
+    background-color: tan;
+    
+}
 .display {
     background-color: #222;
     width: 220px;
