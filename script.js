@@ -19,3 +19,21 @@ let operator;
 function operate(operand1, operand2, operator){
 
 };
+
+
+function calc(val) {
+    document.getElementById("disp").value=val;
+}    
+    
+function val(val) {
+    document.getElementById("disp").value+=val;    
+}    
+function equal() {
+    try
+     {    
+     calc(eval(document.getElementById("disp").value))    
+    }    
+    catch(e)    
+    {    
+     calc('Error') }    
+} 
